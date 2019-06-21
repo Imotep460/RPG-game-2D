@@ -1,0 +1,62 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!78 &1
+TagManager:
+  serializedVersion: 2
+  tags:
+  - UI/Quest Panel
+  layers:
+  - Default
+  - TransparentFX
+  - Ignore Raycast
+  - 
+  - Water
+  - UI
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  m_SortingLayers:
+  - name: Default
+    uniqueID: 0
+    locked: 0
+  - name: Background
+    uniqueID: 2144240891
+    locked: 0
+  - name: Road
+    uniqueID: 3073339617
+    locked: 0
+  - name: Decorations
+    uniqueID: 1866600069
+    locked: 0
+  - name: Characters
+    uniqueID: 1099375223
+    locked: 0
+  - name: Collision
+    uniqueID: 3662244297
+    locked: 0
+  - name: Foreground
+    uniqueID: 2856176165
+    locked: 0
